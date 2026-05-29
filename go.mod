@@ -1,4 +1,4 @@
-module nxbender
+module github.com/megakuul/vibebender
 
 go 1.21
 
